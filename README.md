@@ -1,8 +1,8 @@
 # Notas:
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+Este es un pequeño servidor de express y sockets listo para ejecutarse y servir la carpeta public en la web.
 
-Recuerden que deben de reconstruir los módulos de node con el comando
+Para tener lo node_modules recuerden escribir en consola/terminal: 
 
 ```
 npm install
